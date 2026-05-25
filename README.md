@@ -43,10 +43,10 @@ pip install numpy matplotlib elevation rasterio geopandas cartopy
 
 ## 🌍 How to Adapt This for Other Regions
 
-The scripts are modularly built so you can easily repurpose them for any other state, country, or point of interest globally. 
+## The scripts are modularly built so you can easily repurpose them for any other state, country, or point of interest globally. 
 
 ### Bounding Box Coordinate Standard
-Whenever modifying geographic boundaries in these notebooks, coordinates must follow the standard bounding box tuple format:
+## Whenever modifying geographic boundaries in these notebooks, coordinates must follow the standard bounding box tuple format:
 ```python
 region_bounds = (Minimum Longitude, Minimum Latitude, Maximum Longitude, Maximum Latitude)
 # Or: (Left, Bottom, Right, Top)
