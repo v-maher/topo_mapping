@@ -20,6 +20,9 @@ The underlying pipeline utilizes SRTM (Shuttle Radar Topography Mission) data, w
 - **Description:** Broadens the geographic scope to capture massive regional calderas using 1.00° × 1.00° bounding matrices perfectly centered over global supervolcano sites (e.g., Yellowstone, Lake Toba, Taupo, Campi Flegrei, Long Valley).
 - **Output:** Compiles large-scale topographic variations to contrast local valley floors against vast volcanic structures.
 
+### 4. ex-US Elevation Mapping - Austria (`Austria_Example.ipynb`)
+- **Description:** Example like #1, only outside the US.
+
 ---
 
 
