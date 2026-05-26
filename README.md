@@ -4,6 +4,8 @@ A collection of Jupyter Notebooks leveraging python-based digital elevation data
 
 The underlying pipeline utilizes SRTM (Shuttle Radar Topography Mission) data, which natively provides global digital elevation model (DEM) extraction between 60° N and 54° S latitude.
 
+Example outputs using this code can be seen in the 'example_outputs' folder
+
 ## Notebooks Overview
 
 ### 1. Regional Elevation Mapping (`AZ_State_Map_Example.ipynb`)
